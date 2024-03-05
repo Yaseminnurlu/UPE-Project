@@ -1,0 +1,29 @@
+*{
+    background-color:darkseagreen;
+}
+#intro {
+    font-size: 20px;
+    padding: 1.5%;
+}
+#main{
+    padding: 1%;
+    display:flex;
+    justify-content: space-evenly;
+}
+#name{
+    background-color:rgb(43, 160, 164);
+    padding: 1%;
+}
+#extracur {
+    padding: 1%;
+    font-size: 20px;
+
+}
+#Exp{
+    font-size: 20px;
+
+}
+#Pro{
+    font-size: 20px;
+
+}
